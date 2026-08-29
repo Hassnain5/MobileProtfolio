@@ -12,7 +12,7 @@ import {
   X,
 } from "lucide-react";
 import { Reveal, SectionHeading } from "@/components/Reveal";
-import portraitAsset from "@/assets/portrait.jpg.asset.json";
+import portraitAsset from "@/assets/portrait.jpg";
 import {
   certifications,
   education,
